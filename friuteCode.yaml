@@ -1,0 +1,9 @@
+name: John Doe
+age: 30
+city: New York
+
+fruits:
+  - Apple
+  - Banana
+  - Orange
+numbers: [1, 2, 3, 4, 5]
